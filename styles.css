@@ -1,0 +1,81 @@
+* {
+	font-family: 'ABeeZee', sans-serif;
+}
+/* HEADER */
+.rond {
+	background-image: url("img/124202409_688011075468274_2197721283893613553_n.jpg");
+	width: 10em;
+	height: 10em;
+	background-size: cover;
+	background-position: bottom;
+	border-radius: 100px;
+	margin-top: 2em;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.head-link a {
+	font-family: 'ABeeZee', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+/* LINKS */
+
+.content-link {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	padding: 1.5em;
+	border: 1px solid red;
+}
+
+.facebook {
+	padding: 1em;
+	border: none;
+	width: 100%;
+	text-align: center;
+	color:white;
+	margin-top: 1em;
+	border-radius: 50px;
+	background-color: #4267B2;
+}
+
+.linkedin {
+	padding: 1em;
+	border: none;
+	width: 100%;
+	text-align: center;
+	color:white;
+	margin-top: 1em;
+	border-radius: 50px;
+	background-color: #2868B2;
+}
+
+.Twitter {
+	padding: 1em;
+	border: none;
+	width: 100%;
+	text-align: center;
+	color:white;
+	margin-top: 1em;
+	border-radius: 50px;
+	background-color: #4267B2;
+}
+
+.Github {
+	padding: 1em;
+	border: none;
+	width: 100%;
+	text-align: center;
+	color:white;
+	margin-top: 1em;
+	border-radius: 50px;
+	background-color: #000000;
+}
